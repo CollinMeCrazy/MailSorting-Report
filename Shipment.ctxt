@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Shipment
+comment0.text=\r\n\ Class\ Shipment\ used\ to\ store\ variables\ in\ Class\ MailCoach\r\n\r\n\ @author\ Collins\ Ramsey\r\n\ @version\ 10/25/22\ @\ 4\:56\ pm\r\n
+comment1.params=
+comment1.target=Shipment()
+comment1.text=\r\n\ Standard\ Constructor\ for\ objects\ of\ class\ Shipment\r\n
+comment2.params=id\ destination\ weight\ volume
+comment2.target=Shipment(int,\ java.lang.String,\ double,\ int)
+comment2.text=\r\n\ 2nd\ Constructor\ for\ objects\ of\ class\ Shipment\ that\ takes\ parameters\r\n\ \r\n\ @param\ int\r\n\ @param\ String\r\n\ @param\ double\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment3.text=\r\n\ Method\ getDestination\ returns\ instance\ variable\ of\ String\ destination\r\n\r\n\ @param\ \ none\r\n\ @return\ String\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ Method\ getWeight\ returns\ instance\ variable\ of\ double\ weight\r\n\r\n\ @param\ \ none\r\n\ @return\ double\r\n
+comment5.params=
+comment5.target=int\ getVolume()
+comment5.text=\r\n\ Method\ getVolume\ returns\ instance\ variable\ of\ int\ volume\r\n\r\n\ @param\ \ none\r\n\ @return\ int\r\n
+comment6.params=
+comment6.target=int\ getId()
+comment6.text=\r\n\ Method\ getId\ returns\ instance\ variable\ of\ int\ id\r\n\r\n\ @param\ \ none\r\n\ @return\ int\r\n
+numComments=7

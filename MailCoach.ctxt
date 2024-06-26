@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MailCoach
+comment0.text=\r\n\ Class\ MailCoach\ takes\ Shipment\ objects\ and\ uses\ them\ with\ Class\ Project5\r\n\r\n\ @author\ Collins\ Ramsey\r\n\ @version\ 10/25/22\ @\ 4\:56\ pm\r\n
+comment1.params=
+comment1.target=MailCoach()
+comment1.text=\r\n\ Standard\ Constructor\ for\ objects\ of\ class\ MailCoach\r\n
+comment2.params=destination
+comment2.target=MailCoach(java.lang.String)
+comment2.text=\r\n\ 2nd\ Constructor\ for\ objects\ of\ class\ MailCoach\ that\ takes\ one\ parameter\r\n\ \r\n\ @param\ String\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment3.text=\r\n\ Method\ getDestination\ returns\ instance\ variable\ String\ destination\r\n\r\n\ @param\ \ none\r\n\ @return\ String\r\n
+comment4.params=
+comment4.target=int\ getVolume()
+comment4.text=\r\n\ Method\ getVolume\ returns\ instance\ variable\ of\ int\ volume\r\n\r\n\ @param\ \ none\r\n\ @return\ int\r\n
+comment5.params=
+comment5.target=double\ getWeight()
+comment5.text=\r\n\ Method\ getWeight\ returns\ instance\ variable\ of\ double\ weight\r\n\r\n\ @param\ \ none\r\n\ @return\ double\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getCargo()
+comment6.text=\r\n\ Method\ getCargo\ returns\ instance\ variable\ of\ Array\ List\ cargo\r\n\r\n\ @param\ \ none\r\n\ @return\ Array\ List\r\n
+comment7.params=s
+comment7.target=void\ addShipment(Shipment)
+comment7.text=\r\n\ Method\ addShipment\ appends\ volume\ and\ weight\ with\ their\ respective\ Shipment\ object\ values\r\n\ and\ appends\ cargo\ with\ the\ whole\ Shipment\ object\r\n\r\n\ @param\ \ Object\r\n\ @return\ nothing\r\n
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Project5
+comment0.text=\r\n\ Class\ Project5\ uses\ Class\ MailCoach\ and\ Shipment\ to\ read\ data\ and\ sort\ it\ into\ a\ report\ statement\r\n\ Does\ pretty\ much\ all\ the\ heavy\ lifting\ (that's\ a\ hefty\ boy)\r\n\r\n\ @author\ Collins\ Ramsey\r\n\ @version\ 10/25/22\ @\ 4\:56\ pm\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testShipment()
+comment3.params=
+comment3.target=void\ testMailCoach()
+comment4.params=fileName
+comment4.target=java.util.ArrayList\ readData(java.lang.String)
+comment4.text=\r\n\ Method\ readData\ takes\ in\ String\ fileName\ and\ returns\ Array\ List\ allMail\ (type\ Shipment).\r\n\ Reads\ through\ text\ file,\ creates\ Shipment\ objects\ and\ appends\ them\ to\ an\ Array\ List\r\n\r\n\ @param\ \ String\r\n\ @return\ Array\ List\r\n
+comment5.params=destination\ allMail
+comment5.target=java.util.ArrayList\ sortData(java.lang.String,\ java.util.ArrayList)
+comment5.text=\r\n\ Method\ sortData\ takes\ String\ destination\ and\ Array\ List\ allMail\ and\ returns\ Array\ List\ dest\ (type\ MailCoach).\r\n\ Takes\ existing\ Shipment\ objects\ from\ Array\ List\ allMail\ and\ sorts\ specified\ Shipment\ types,\ using\r\n\ String\ destination,\ into\ MailCoach\ objects\ that\ are\ appended\ to\ Array\ List\ MailCoach\ (cue\ Inception)\r\n\r\n\ @param\ \ String\r\n\ @param\ Array\ List\r\n\ @return\ Array\ List\r\n
+comment6.params=mc
+comment6.target=void\ printReport(java.util.ArrayList)
+comment6.text=\r\n\ Method\ printReport\ takes\ Array\ List\ mc\ and\ returns\ nothing.\r\n\ Takes\ sorted\ data\ and\ prints\ out\ a\ report\ statement\ with\ each\ destination's\ MailCoaches,\r\n\ the\ ids\ in\ each\ MailCoach,\ and\ determines\ if\ each\ MailCoach\ is\ full\ enough\ to\ be\ dispatched.\r\n\r\n\ @param\ \ Array\ List\r\n\ @return\ nothing\r\n
+numComments=7
