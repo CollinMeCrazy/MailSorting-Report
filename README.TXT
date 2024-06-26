@@ -1,4 +1,4 @@
-PROJECT TITLE: MailSortin-Report
+PROJECT TITLE: Mail Sorting Report
 
 PURPOSE OF PROJECT: Takes the existing file week1.txt and sorts its contents into a report.
 
